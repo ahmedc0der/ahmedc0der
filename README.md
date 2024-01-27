@@ -13,8 +13,6 @@
 
 - 👨‍💻 Hire me for Front-end Development jobs **https://wa.me/967738047937**
 
-- ⚡ Fun fact **I love Cat(🐈), Coding(💻),Dark Mood(🌚), and Tea(☕️).**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ahmedc0der" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmedc0der" height="30" width="40" /></a>
